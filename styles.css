@@ -1,0 +1,48 @@
+body {
+    background-image: url("media/background.jpg");
+    background-repeat: no-repeat;
+}
+
+
+.icon {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    background-color: white;
+    border: 5px solid;
+    border-color: white;
+    border-radius: 5px;
+    border-width: 2px;
+}
+
+#center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#profile {
+    color: white; 
+    text-align: center; 
+    font-family: monospace;
+}
+
+#roland {
+    border: 5px solid;
+    border-color: white;
+    border-style: none;
+    border-bottom-style: dotted;
+}
+
+#roland:hover {
+    filter: brightness(1.2);
+}
+
+#copyright {
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    left: 25px;
+    bottom: 0px; 
+}
