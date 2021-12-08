@@ -1,2 +1,2 @@
-# gotta host it first and finish last touches
-My very own website (I hate web dev)
+# gotta code the blog section and yea some last tweaks i suppose
+My profile website (I hate web dev)
